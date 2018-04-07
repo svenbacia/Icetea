@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Files",
+        "repositoryURL": "https://github.com/JohnSundell/Files.git",
+        "state": {
+          "branch": null,
+          "revision": "435965437ff7f149b9682aeb6553b5aa14b00402",
+          "version": "2.2.0"
+        }
+      },
+      {
+        "package": "ShellOut",
+        "repositoryURL": "https://github.com/JohnSundell/ShellOut.git",
+        "state": {
+          "branch": null,
+          "revision": "f1c253a34a40df4bfd268b09fdb101b059f6d52d",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "SwiftPM",
+        "repositoryURL": "https://github.com/apple/swift-package-manager.git",
+        "state": {
+          "branch": null,
+          "revision": "63a01220e93271dc3bf204b9e13dd1aeb2beefee",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "Xgen",
+        "repositoryURL": "git@github.com:svenbacia/Xgen.git",
+        "state": {
+          "branch": null,
+          "revision": "55b54a8fc6e5bfd5e9e6cefecbf63e55d4f6c654",
+          "version": "2.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
